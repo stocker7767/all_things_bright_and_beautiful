@@ -1,6 +1,11 @@
-ALL THINGS BRIGHT & BEAUTIFUL — UNOFFICIAL REDESIGN CONCEPT
+# All Things Bright & Beautiful
 
-Pages: Home, Flowers, Weddings, Sympathy, Occasions, About, Contact, FAQs, Privacy.
+[Open the portfolio demo](https://montychaudhary.com/?monty_demo=all-things-bright)
 
-This is a complete multi-page static front-end, NOT a production site with a live backend. No online checkout, real booking, verified shop email or email submission. Contact form opens an email draft with no recipient. External illustrative Unsplash photos and Google Fonts need internet.
+The navigation puts occasions, weddings and sympathy flowers up front. The enquiry form brings the preferred date, budget and message into one email draft.
 
+## Try it
+
+Start on **Occasions**, then open **Contact** and enter sample details. The form opens an email draft with those details and a blank recipient field.
+
+This is an independent portfolio concept. To preview it locally, download the repo and open `index.html`.
